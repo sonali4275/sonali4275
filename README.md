@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sonali Kumari Singh</h1>
 <h3 align="center">A enthusiastic Programmer from India</h3>
 
-- 🔭 I’m currently working on **Data Structure and Algorithms and Web Development.**
+- 🔭 I’m currently working on **Data Structure Algorithms and Web Development.**
 
 - 🌱 I’m currently learning **Currently, I am diving into the world of responsive Web design and learning how to create websites that adapt to the different screen sizes. I am also exploring the latest JavaScript frameworks like react and Vue.js to enhance my frontend development skills.**
 
