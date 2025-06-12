@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Data Structure Algorithms and Web Development.**
 
-- 🌱 I’m currently learning **Currently, I am diving into the world of responsive Web design and learning how to create websites that adapt to the different screen sizes. I am also exploring the latest JavaScript frameworks like react and Vue.js to enhance my frontend development skills.**
+- 🌱 I’m currently learning **Currently, I am diving into the world of responsive Web design and learning how to create websites that adapt to different screen sizes. I am also exploring the latest JavaScript frameworks like React and Vue.js to enhance my frontend development skills.**
 
 - 👯 I’m looking to collaborate on **Software Development or Software Engineer**
 
-- 🤝 I’m looking for help with **I am seeking assistance with DSA programming, including topics like data structures, algorithm, and problem-solving**
+- 🤝 I’m looking for help with **I am seeking assistance with DSA programming, including topics like data structures, algorithms, and problem-solving**
 
 - 📫 How to reach me **sonalisingh4275@gmail.com**
 
