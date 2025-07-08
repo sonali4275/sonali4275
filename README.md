@@ -2,7 +2,7 @@
 <h3 align="center">🚀 An enthusiastic Developer | 💻 Problem Solver | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer%20%7C%20DSA%20Enthusiast;Frontend%20Fan%20%7C%20React%20%7C%20Vue;Always%20Learning%20%7C%20Building%20%F0%9F%92%BB&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer%20%7C%20DSA%20Enthusiast;Frontend%20React%20%7C%20Vue;Always%20Learning%20%7C%20Building%20%F0%9F%92%BB&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
