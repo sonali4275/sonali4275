@@ -1,85 +1,93 @@
 <h1 align="center">Hi 👋, I'm Sonali Kumari Singh</h1>
-<h3 align="center">An enthusiastic Programmer from India 🇮🇳</h3>
+<h3 align="center">🚀 An enthusiastic Developer | 💻 Problem Solver | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonali4275&label=Profile%20views&color=0e75b6&style=flat" alt="sonali4275" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer%20%7C%20DSA%20Enthusiast;Frontend%20Fan%20%7C%20React%20%7C%20Vue;Always%20Learning%20%7C%20Building%20%F0%9F%92%BB&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sonali4275" alt="sonali4275" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sonali4275&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sonali4275?style=social" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Data Structures, Algorithms, and Full Stack Web Development.**
+- 🔭 I’m currently working on **DSA, Full Stack Web Development & Real-world Projects**
 
-- 🌱 I’m currently learning **Responsive web design, JavaScript frameworks like React and Vue.js, and enhancing my DSA skills.**
+- 🌱 I’m currently learning **React.js, Vue.js, TailwindCSS & MongoDB**
 
-- 👯 I’m looking to collaborate on **Software Development and Engineering Projects.**
+- 👯 I’m looking to collaborate on **Software Engineering or Open Source Projects**
 
-- 🤝 I’m looking for help with **Advanced DSA topics and real-world software projects.**
+- 👩‍💻 All my work is available at [GitHub](https://github.com/sonali4275)
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/sonali4275)
+- 🤝 I’m open to internships & hackathons!
 
-- 📫 How to reach me: **sonalisingh4275@gmail.com**
+- 📫 Reach me at **sonalisingh4275@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sonali-singh-b64858232/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/sonali-singh-b64858232" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/sonalisingh4275" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/sonalisingh7726/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="Leetcode" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sonalisingh4275/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages & Tools:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">Support:</h3>
+<h3 align="left">🧠 Quote to Live By:</h3>
+
+> _"The best way to predict the future is to invent it."_ — Alan Kay
+
+---
+
+<h3 align="left">📈 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonali4275&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali4275&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonali4275&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Uncomment when you have BuyMeACoffee setup -->
+<!--
+<h3 align="left">☕ Support Me:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/sonalisingh4275" target="_blank">
+  <a href="https://www.buymeacoffee.com/sonalisingh">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
+-->
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali4275&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali4275&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali4275&hide_border=true" alt="GitHub Streak" /></p>
