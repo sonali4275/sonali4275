@@ -1,108 +1,140 @@
-# Hi, I'm Sonali Singh 👋
+# Hi, I'm Sonali 👋
 
-### Software Engineer | C++ | Python | Backend Systems | Distributed Systems
+### Software Engineer | C++ | Backend Systems | Data Structures & Algorithms
 
-I’m a Software Engineer focused on building reliable backend systems and strengthening my foundations in **Data Structures & Algorithms, Computer Science, and Distributed Systems**.
+I’m a software engineer focused on building backend systems and strengthening my problem-solving skills through Data Structures and Algorithms.
 
-I enjoy understanding how software works beyond the surface level — from API design and databases to caching, concurrency, asynchronous communication, and system scalability.
-
----
-
-## 🔧 Technical Focus
-
-**Languages:**  
-C++, Python, Java, SQL
-
-**Backend:**  
-REST APIs, Spring Boot, Django, Microservices, API Design
-
-**Databases & Caching:**  
-PostgreSQL, SQL, Redis, Database Design, Query Optimization
-
-**Distributed Systems:**  
-Kafka, Asynchronous Communication, Service Discovery, API Gateway, Caching
-
-**Infrastructure & DevOps:**  
-Docker, Docker Compose, Jenkins, Git, CI/CD
-
-**Computer Science:**  
-Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, System Design
+I enjoy building systems from scratch, understanding how they work internally, and improving their performance, reliability, and design.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔎 Atlas Retrieval Engine
+
+A C++17 technical knowledge retrieval engine built from scratch with a custom inverted index and BM25 ranking.
+
+**Key features:**
+- Custom positional inverted index
+- BM25 relevance ranking
+- Phrase search
+- Boolean `AND`, `OR`, and `NOT` queries
+- Parentheses and Boolean operator precedence
+- Persistent index serialization
+- Concurrent search support
+- Automated test suite
+- Performance benchmarking
+- CMake-based build system
+
+**Benchmark:**
+- 50,000 documents
+- 4,000,000 tokens
+- 50,000-word vocabulary
+- Indexing throughput: ~1.59M tokens/sec
+- Top-10 BM25, phrase and Boolean query benchmarks
+- p50/p99 latency measurements
+- 43 MB serialized index
+
+🔗 [View Atlas Retrieval Engine](https://github.com/sonali4275/atlas-retrieval-engine)
+
+---
+
 ### 🔗 URL Shortener with Click Analytics
 
-A backend service for creating and resolving shortened URLs with persistent click analytics.
+A backend URL-shortening system built using Java and Spring Boot.
 
-- RESTful API for URL creation and redirection
-- PostgreSQL for persistent storage
-- Redis caching for frequently accessed short URLs
-- Atomic database updates for concurrent click tracking
-- Redis-backed rate limiting
-- Dockerized application, PostgreSQL, and Redis
-- JUnit and Mockito testing
-- Deployed application
-
-**Repository:**  
-https://github.com/sonali4275/url-shortener
-
----
-
-### 🎬 Netflix Backend Clone
-
-A microservices-based backend application demonstrating distributed service architecture.
-
-- Spring Boot microservices
-- JWT-based authentication
-- API Gateway
-- Eureka service discovery
+**Technologies:**
+- Java
+- Spring Boot
 - PostgreSQL
+- Redis
+- Docker
+- JUnit
+- Mockito
+
+**Key features:**
+- Base62 short URL generation
+- URL redirection
 - Redis caching
-- Kafka-based asynchronous communication
-- Docker and Docker Compose
+- Click analytics
+- REST APIs
+- Unit testing
+
+🔗 [View Project](https://github.com/sonali4275)
 
 ---
 
-## 📚 Currently Learning
+## 💻 Technical Skills
 
-- Data Structures & Algorithms using C++
-- Advanced problem-solving patterns
-- Backend architecture
-- Distributed systems
+### Languages
+- C++
+- Java
+- Python
+- SQL
+- JavaScript
+
+### Backend & Systems
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- MySQL
+- Redis
+- Docker
+- CMake
+
+### Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Information Retrieval
+- System Design fundamentals
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- Linux
+
+---
+
+## 🧠 Current Focus
+
+- Advanced Data Structures & Algorithms
+- C++ problem solving
+- Backend engineering
+- Search and information retrieval
 - System design
-- Concurrency and scalability
-- Building production-oriented software
+- Performance optimization
 
 ---
 
-## 🎯 Engineering Interests
+## 📌 What I'm Building
 
-- Algorithms & Problem Solving
-- Backend Engineering
-- Distributed Systems
-- Scalable Software Architecture
-- Databases
-- Performance Optimization
-- Cloud & Infrastructure
+I'm particularly interested in projects involving:
 
----
-
-## 📊 Coding & Profiles
-
-- **LinkedIn:** https://www.linkedin.com/in/sonali-singh-b64858232/
-- **LeetCode:** https://leetcode.com/u/sonalisingh7726/
-- **Portfolio:** https://portfolio-sonali-three.vercel.app/
-- **GitHub:** https://github.com/sonali4275
+- Search engines and retrieval systems
+- Backend infrastructure
+- High-performance C++
+- Distributed systems
+- Databases and caching
+- Scalable APIs
+- Algorithmic problem solving
 
 ---
 
-## 💡 A Little More About Me
+## 📊 GitHub
 
-I’m continuously rebuilding and strengthening my computer science fundamentals through hands-on projects and algorithmic problem solving.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonali4275&show_icons=true&hide_border=true)
 
-My current focus is becoming a stronger software engineer by combining **fundamental CS knowledge with practical backend and distributed-systems engineering**.
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@sonali4275](https://github.com/sonali4275)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/)
 
 ---
 
